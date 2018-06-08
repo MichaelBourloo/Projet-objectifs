@@ -1,4 +1,5 @@
 Objectifs avant le stage en entreprise !
+
 <details>
   <summary>Objectif n°1 :</summary>
   <p>Perfectionnement de git via l'utilisation de gitKraken bien comprendre toutes les petites subtilités.</p>  
@@ -19,5 +20,6 @@ Objectifs avant le stage en entreprise !
   <summary>Objectif n°5 :</summary>
   <p>Compréhension de ReactJS gros +</p>  
 </details>
+
 
 S'informer sur toutes les competences qu'ont besoin Spada.

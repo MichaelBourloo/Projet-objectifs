@@ -10,7 +10,7 @@ Objectifs avant le stage en entreprise tout en s'informant sur les competences q
 </details>
 <details>
   <summary>Objectif n°3 :</summary>
-  <p>Utilisation du framework Bootstrap : https://www.youtube.com/watch?v=wywJ9BaZD_Q</p>  
+  <p>Utilisation du framework Bootstrap : https://www.youtube.com/watch?v=wywJ9BaZD_Q et/ou https://openclassrooms.com/courses/prenez-en-main-bootstrap/mise-en-route-8</p>  
 </details>
 <details>
   <summary>Objectif n°4 :</summary>

@@ -1,4 +1,4 @@
-Objectifs avant le stage en entreprise !
+Objectifs avant le stage en entreprise tout en s'informant sur les competences qu'ont besoin Spada...
 
 <details>
   <summary>Objectif n°1 :</summary>
@@ -20,6 +20,3 @@ Objectifs avant le stage en entreprise !
   <summary>Objectif n°5 :</summary>
   <p>Compréhension de ReactJS gros +</p>  
 </details>
-
-
-S'informer sur toutes les competences qu'ont besoin Spada.

@@ -1,12 +1,16 @@
 Objectifs avant le stage en entreprise tout en s'informant sur les competences qu'ont besoin Spada...
 
 <details>
+  <summary>Objectif Prioritaire :</summary>
+  <p>Initialiser mon portfolio.</p>  
+</details>
+<details>
   <summary>Objectif n°1 :</summary>
   <p>Perfectionnement de git via l'utilisation de gitKraken bien comprendre toutes les petites subtilités.</p>  
 </details>
 <details>
   <summary>Objectif n°2 :</summary>
-  <p>Commencer a se pencher a l'utilisation du CMS Wordpress !!!! /!\ Urgent /!\</p>  
+  <p>Commencer a se pencher a l'utilisation du CMS Wordpress !!!! /!\ Urgent /!\.</p>  
 </details>
 <details>
   <summary>Objectif n°3 :</summary>

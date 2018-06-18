@@ -1,4 +1,4 @@
-# Objectifs avant le stage en entreprise tout en s'informant sur les besoins de Spade... "Vous intégrez l'équipe de développement pour réaliser des tâches d'intégration en HTML, CSS et javascript. Nous travaillons essentiellement dans une approche framework (OOCSS, Git, Gulp, Grunt, ...) et avec quelques CMS comme WordPress, Craft."
+## Objectifs avant le stage en entreprise tout en s'informant sur les besoins de Spade... "Vous intégrez l'équipe de développement pour réaliser des tâches d'intégration en HTML, CSS et javascript. Nous travaillons essentiellement dans une approche framework (OOCSS, Git, Gulp, Grunt, ...) et avec quelques CMS comme WordPress, Craft."
 
 <details>
   <summary>Objectif Prioritaire :</summary>

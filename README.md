@@ -1,4 +1,4 @@
-### Objectifs avant le stage en entreprise tout en s'informant sur les competences qu'ont besoin Spade...
+## Objectifs avant le stage en entreprise tout en s'informant sur les competences qu'ont besoin Spade...
 
 <details>
   <summary>Objectif Prioritaire :</summary>
@@ -25,6 +25,6 @@
   <p>Compréhension de ReactJS gros + https://www.udemy.com/the-complete-javascript-course/learn/v4/t/lecture/5869076?start=0</p>  
 </details>
 
-### Vous intégrez l'équipe de développement pour réaliser des tâches d'intégration en HTML, CSS et javascript. Nous travaillons essentiellement dans une approche framework (OOCSS, Git, Gulp, Grunt, ...) et avec quelques CMS comme WordPress, Craft.
+## Vous intégrez l'équipe de développement pour réaliser des tâches d'intégration en HTML, CSS et javascript. Nous travaillons essentiellement dans une approche framework (OOCSS, Git, Gulp, Grunt, ...) et avec quelques CMS comme WordPress, Craft.
 
-### L'éditeur de code et le terminal seront vos outils de prédilection.
+## L'éditeur de code et le terminal seront vos outils de prédilection.
